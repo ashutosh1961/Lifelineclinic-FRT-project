@@ -39,7 +39,7 @@ Simplified the website development and deployment process, providing a seamless 
 
 # Azure AI language service 
 
-##QnA Maker/ Knowledge Base
+## QnA Maker/ Knowledge Base
 QnA Maker, part of Microsoft's Azure Cognitive Services, is a cloud-based tool designed to build, train, and publish a sophisticated knowledge base from unstructured data, such as FAQs, manuals, and documents. 
 QnA Maker helped build the website chatbot by providing an easy-to-use platform to create a knowledge base from existing FAQs and documents. It allowed the chatbot to deliver accurate and relevant answers to user queries by leveraging natural language processing capabilities. This improved user interaction on the website, offering immediate support and information. Integrating QnA Maker streamlined the development process, enabling the chatbot to understand and respond to a wide range of questions effectively, enhancing the overall user experience.
 
