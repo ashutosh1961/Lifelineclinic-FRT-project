@@ -72,6 +72,7 @@ They support a wide range of operating systems, including Windows and Linux, and
 
 ![Screenshot (306)](https://github.com/ashutosh1961/Lifelineclinic-FRT-project/assets/142258339/685bacca-11cf-4cd7-ae17-117aeae0d12f)
 
+# Deploying the website on a virtual machine
 
 ![Screenshot (1)](https://github.com/ashutosh1961/Lifelineclinic-FRT-project/assets/142258339/c1b59614-d5db-4380-ab97-58efe6c9ec1b)
 
